@@ -3,7 +3,7 @@
 ## Web Development Bootcamp oct 2016
 
 **Lesson 1:** Getting Started
-
+- Exercise - Three doors
 **Lesson 2:** Ruby
 
 - Exercise - FizzBuzz
