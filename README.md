@@ -4,6 +4,7 @@
 
 **Lesson 1:** Getting Started
 - Exercise - Three doors
+
 **Lesson 2:** Ruby
 
 - Exercise - FizzBuzz
