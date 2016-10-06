@@ -1,0 +1,41 @@
+article {
+	margin: auto;
+	width: 1000px;
+	height: 1000px;
+}
+
+header {
+	font-size: 30px;
+	width: 100%;
+	height: 100px;
+	text-align: center;
+}
+footer {
+	width: 100%;
+	height: 100px;
+	text-align: center;
+}
+
+section {
+	width: 63%;
+	float: left;
+}
+
+aside {
+	width: 30%;
+	float: right;
+}
+
+h1 {
+	font-size: 36px;
+}
+.featured-image {
+	float: left;
+	margin-right: 30px;
+}
+
+.gallery {
+	border-radius: 8px;
+    width: auto;
+    height: 200px;
+}
