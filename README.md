@@ -17,3 +17,9 @@
 
 - Exercise - A site for a movie
 - Exercise - Google clone
+
+**Lesson 4:** JavaScript
+
+- Exercise - First JS Exercises
+- Exercise - Quiz Time
+- Exercise - Mars Rover
