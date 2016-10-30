@@ -23,3 +23,8 @@
 - Exercise - First JS Exercises
 - Exercise - Quiz Time
 - Exercise - Mars Rover
+- Exercise - ToDo List
+
+** Extra 5:**
+
+- HangMan
